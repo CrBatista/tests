@@ -8,5 +8,5 @@ Using CSS only (without adding additional HTML attributes), style articles so th
 | Fourth        | Lower-right quarter | Green             |
 
 
-![The four colored quarters of the articles](https://www.testdome.com/Files/Resources/12362/5c7aa3e6-e30e-43ab-8342-e06993926ba5.png=250x)
+![The four colored quarters of the articles](https://www.testdome.com/Files/Resources/12362/5c7aa3e6-e30e-43ab-8342-e06993926ba5.png)
 
